@@ -1,6 +1,6 @@
 # PhotoHub
 
-PhotoHub is a photography aplications that allows users authenticated users to upload/remove pictures, like/dislike other's pictures, save their favorite pictures and other.
+PhotoHub is a photography application that allows authenticated users to upload/remove pictures, like/dislike other's pictures, save their favorite pictures and other.
 
 Built using scrum methodology.
 
