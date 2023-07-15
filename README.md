@@ -4,8 +4,7 @@
 
 #### Built using scrum methodology.
 
-
-https://github.com/NunoSources/SoftwareEngineeringProject/assets/98571427/b9ee2a7c-344f-4d7a-8c5f-28a9a54624f7
+https://github.com/NunoSources/SoftwareEngineeringProject/assets/98571427/00c71f3b-d738-43b1-adbc-74852f7dcf79
 
 ---
 
