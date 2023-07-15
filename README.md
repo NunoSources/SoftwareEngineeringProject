@@ -1,4 +1,4 @@
-# <p align="center"> PhotoHub </p>
+# <p align="center"> PhotoHub 📷 </p>
 
 #### PhotoHub is a photography application that allows authenticated users to upload/remove pictures, like/dislike other's pictures, save their favorite pictures and other.
 
