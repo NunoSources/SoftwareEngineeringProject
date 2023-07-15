@@ -1,12 +1,13 @@
-# PhotoHub
+# <p align="center"> PhotoHub </p>
 
-PhotoHub is a photography application that allows authenticated users to upload/remove pictures, like/dislike other's pictures, save their favorite pictures and other.
+#### PhotoHub is a photography application that allows authenticated users to upload/remove pictures, like/dislike other's pictures, save their favorite pictures and other.
 
-Built using scrum methodology.
+#### Built using scrum methodology.
 
 
 https://github.com/NunoSources/SoftwareEngineeringProject/assets/98571427/b9ee2a7c-344f-4d7a-8c5f-28a9a54624f7
 
+---
 
 ## Instructions to Execute
 Execute Node JS:
